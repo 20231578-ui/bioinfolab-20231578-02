@@ -1,0 +1,44 @@
+==============================================
+ Codespace 사용 확인 결과
+==============================================
+생성 시각 : 2026-09-08 04:56:07 UTC
+사용자    : vscode
+호스트    : codespaces-9ed739
+작업 위치 : /workspaces/bioinfolab-20231578-02
+
+--- 1. 저장소 정보 ---
+원격 저장소 : https://github.com/20231578-ui/bioinfolab-20231578-02
+현재 브랜치 : main
+커밋 개수   : 3
+최근 커밋   : feb86e3 lab02폴더와 파일 생성 (유서연, 2026-09-08)
+
+--- 2. 폴더 구조 ---
+  [ 있음 ] lab02        파일 0개
+  [ 있음 ] lab02/data   파일 1개
+  [ 있음 ] lab02/doc    파일 1개
+  [ 있음 ] lab02/src    파일 1개
+
+--- 3. 만든 파일 목록 ---
+  lab02/data/alice.txt
+  lab02/doc/README
+  lab02/src/hello.py
+
+--- 4. 도구 확인 ---
+  [ OK ] python3
+  [ OK ] seqkit
+  [ OK ] fastqc
+  [ OK ] fastp
+  [ OK ] blastn
+  [ OK ] mafft
+  [ 없음 ] iqtree
+
+--- 5. 명령어 실행 결과 ---
+  python3 --version : Python 3.11.16
+  파일시스템 루트   : bin boot dev etc home lib lib32 lib64 libx32 media mnt opt proc root run sbin srv sys tmp usr var vscode workspaces 
+
+--- 6. 확인 코드 ---
+  확인 코드 : df6f56586d03
+
+==============================================
+ 이 파일을 git으로 올리고 구글클래스룸에도 제출한다.
+==============================================
